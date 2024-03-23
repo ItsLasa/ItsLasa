@@ -27,4 +27,4 @@ Aside from that quite serious description, I like to create projects ranging fro
 ## ⚡ Stats
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fred-gutierrez&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLasa&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
