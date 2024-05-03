@@ -1,4 +1,4 @@
-# Hey, you! It's been a while. Good to see you. 👋
+# Hey, you! It's been a while. Good to see you. <img width="45" src="waving_hand.gif" alt="hand" />
  
 
 <br />
