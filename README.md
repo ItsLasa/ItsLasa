@@ -33,6 +33,6 @@ My mission is to create and deliver technology-advancing projects and products t
 
  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsLasa&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
+
 
 
