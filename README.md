@@ -18,7 +18,7 @@ My mission is to create and deliver technology-advancing projects and products t
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-illangasinghe/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://twitter.com/ItxLasa)  [![Codepen](https://img.shields.io/badge/CodePen-open?logo=codepen)](https://codepen.io/itslasa)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-illangasinghe/) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://twitter.com/ItxLasa)  [![Codepen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](https://codepen.io/itslasa)    [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@manojlasantha306)      [![StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20635236/manoj-illangasinghe)  
 
 
 
