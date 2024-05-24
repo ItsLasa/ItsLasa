@@ -9,10 +9,6 @@
 -  🌱 Interested in learning new technologies.<br>
 -   👯 Looking to collaborate on projects. <br><br>
 
-#### Favorite Quotes ⚡
-- In real open source, you have the right to control your own destiny. ~ Linus Torvalds
-- Talk less, Do More.
-  <br><br>
 My mission is to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around <b> <i> JavaScript</i> </b>, with a strong focus on <b> NextJs and TypeScript</b>.<br><br>Aside from that quite serious description, I like to create projects ranging from fun to complex, attempting to push the boundaries of what's possible, and collaborate with others to achieve something great. I'm interested in any project ideas or questions, so feel free to reach out, and let's create great things! <br><br>
  📫 Feel free to reach me out **Manojlasantha306@gmail.com**
 
