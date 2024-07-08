@@ -7,7 +7,7 @@
 
 -   💻 I’m currently working on **Farm to Market Food Project** for food producers and consumers. <br>
 
--   💬 I’m  learning and worked on **SpringBoot | Nextjs | React** any tech related stuff.<br>
+-   💬 I’m  learning and worked on **SpringBoot | React** any tech related stuff.<br>
 -   🌱 Interested in learning new technologies & Machine Learning and AI<br>
 -    👯 Looking to collaborate on projects. <br><br>
 
