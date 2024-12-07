@@ -7,11 +7,11 @@
 
 -   💻 I’m currently working on **Farm to Market Food Project** for food producers and consumers. <br>
 
--   💬 I’m  learning and worked on **SpringBoot | React** any tech related stuff.<br>
+-   💬 I’m  learning and worked on **SpringBoot | React | React-Native**  any tech related stuff.<br>
 -   🌱 Interested in learning new technologies & Machine Learning and AI<br>
 -    👯 Looking to collaborate on projects. <br><br>
 
-My mission is to create and deliver technology-advancing projects and products that make a positive impact on our world. My expertise revolves around <b> <i> JavaScript</i> </b>, with a strong focus on <b> NextJs and TypeScript</b>.<br><br>Aside from that quite serious description, I like to create projects ranging from fun to complex, attempting to push the boundaries of what's possible, and collaborate with others to achieve something great. I'm interested in any project ideas or questions, so feel free to reach out, and let's create great things! <br><br>
+My mission is to create and deliver technology to the projects and products that make a positive impact on our world. My expertise revolves around <b> <i> JavaScript</i> </b>, with a strong focus on <b> NextJs and TypeScript</b>.<br><br>Aside from that quite description, I like to create projects ranging from fun to advance, attempting to push the boundaries of what's possible, and collaborate with others to achieve something great. I'm interested in any project ideas or questions, so feel free to reach out, and let's create great things! <br><br>
  📫 Feel free to reach me out <br>
  [![Gmail Badge](https://img.shields.io/badge/-Manojlasantha306@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Manojlasantha306@gmail.com)](mailto:Manojlasantha306@gmail.com)
 
