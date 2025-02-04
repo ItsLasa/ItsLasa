@@ -5,7 +5,7 @@
 
 <br />
 
--   💻 I’m currently working on **ML Project** for food producers and consumers. <br>
+-   💻 I’m currently working on **Web Project**  <br>
 
 -   💬 I’m  learning and worked on **SpringBoot | Django | Laravel | Nextjs | React-Native**  any tech related stuff.<br>
 -   🌱 Interested in learning new technologies & Machine Learning and AI<br>
